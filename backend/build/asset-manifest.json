@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.41abcd47.css",
+    "main.js": "/static/js/main.136420ad.js",
+    "static/media/instagramLogo.png": "/static/media/instagramLogo.650c5954be88c41ea944.png",
+    "static/media/nushrat.jpg": "/static/media/nushrat.2c50498892990349eaaf.jpg",
+    "static/media/Sampleavatar.png": "/static/media/Sampleavatar.7b4e3c2baaf9f020667f.png",
+    "static/media/logo.png": "/static/media/logo.fa5d7fc3a4c1bbb48818.png",
+    "static/media/ChatLogo.png": "/static/media/ChatLogo.63a441024807c80432ac.png",
+    "static/media/whiteheartLogo.png": "/static/media/whiteheartLogo.c412cbaead4744166c20.png",
+    "static/media/sendMsg.png": "/static/media/sendMsg.c50fea69ec9f7733f49f.png",
+    "static/media/AddLogo.png": "/static/media/AddLogo.5a446b5259872f4e1a3e.png",
+    "static/media/Reellogo.png": "/static/media/Reellogo.f35d3738a66b11daa935.png",
+    "static/media/Commenticon.png": "/static/media/Commenticon.70b39da70af44db5f0be.png",
+    "static/media/heartLogo.png": "/static/media/heartLogo.556c78a5a9b89d6b2eeb.png",
+    "static/media/angle-double-left.png": "/static/media/angle-double-left.b8a39e3a39ae36ad7d29.png",
+    "index.html": "/index.html",
+    "main.41abcd47.css.map": "/static/css/main.41abcd47.css.map",
+    "main.136420ad.js.map": "/static/js/main.136420ad.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.41abcd47.css",
+    "static/js/main.136420ad.js"
+  ]
+}

@@ -1,0 +1,69 @@
+.rounded-circle{
+    border-radius: 50%;
+    background-color: black;
+    color: beige;
+    border: none;
+    width: 100px;
+    height: 100px;
+    
+}
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    justify-content: center;
+    display: flex;
+    height: 100%;
+    margin: 0;
+}
+form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+}
+
+.form-container{
+    /* Adjust the width of the container as needed */
+   padding: 20px;
+   align-items: center;
+   justify-content: center;
+   height: 93vh;
+   
+   width: 100%;
+}
+
+.box-container{
+    border-radius: 3px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    align-items: center;
+    width: 45%;
+    margin-bottom: 10px;
+}
+.edit{
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.profile-circle{
+    border-radius: 50%;
+    background-color: black;
+    color: beige;
+    border: none;
+    width: 100px;
+    height: 100px;
+    padding: 0 0 0 0;
+    margin-bottom: 15px;
+}
+#update-profilet{
+    justify-content: center;
+    align-items: center;
+}
+.btn-primary{
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    background-color: #007bff;
+    border-color: #007bff;
+    align-self: center;
+    align-content: end;
+}
